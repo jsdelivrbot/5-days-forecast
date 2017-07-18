@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2017 Zameer Ul Haque
+Original work Copyright (c) 2016 Stephen Grider
+Modified work Copyright (c) 2017 Zameer Ul Haque
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
